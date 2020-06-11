@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## PDE BLACKBOX
 
-You can use the [editor on GitHub](https://github.com/sumanan047/pde_blackbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website contains resources to solve and visualize regular, simple partial differential equations. The solutions can be used for acedemic and research purposes.
 
 ### Markdown
 
